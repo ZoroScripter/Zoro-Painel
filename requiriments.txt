@@ -1,3 +1,0 @@
-cmds = open("requirements.txt","w")
-for i in cmds.readline():
-    exec(i)
